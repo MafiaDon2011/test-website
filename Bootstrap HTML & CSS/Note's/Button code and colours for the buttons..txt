@@ -1,0 +1,40 @@
+Button type's
+
+Button in HTML, code name: btn
+This is how you can use it;
+
+<div class="#" col-sm-4>test
+ <a href="#" class="btn btn-default">Button</a>
+</div>
+
+Thats the default button, there a primary button, to use it this is how:
+
+<div class="#" col-sm-4>test  (You don't need to use this)
+ <a href="#" class="btn btn-primary">Button</a>
+</div>  (Blue)
+
+Thats the primary button, there a danger button, to use it this is how:
+
+<div class="#" col-sm-4>test
+ <a href="#" class="btn btn-danger">Button</a>
+</div>  (Red)
+
+That the danger button, there a warning button, to use it this is how:
+
+<div class="#" col-sm-4>test
+ <a href="#" class="btn btn-warning">Button</a>
+</div>  (Orange)
+
+That the warning button, there a success button, to use it this is how:
+
+<div class="#" col-sm-4>test
+ <a href="#" class="btn btn-success">Button</a>
+</div>  (Green)
+
+That the success button, there an info button, to use it this is how:
+
+<div class="#" col-sm-4>test
+ <a href="#" class="btn btn-info">Button</a>
+</div>   (light blue)
+
+That the info button, there also a link button it the same way as all of these.

@@ -1,0 +1,39 @@
+Panels
+
+Colours for all type's of panels.
+
+*Default
+
+*Info
+
+*Warning
+
+*Danger
+
+*Link
+
+*Success
+
+*Primary
+
+The code is;
+
+<div class="panel panel-default">
+  <div class="panel-body">
+    Basic panel example
+  </div>
+</div>
+
+just change this part of the code. (Panel-default) (Normal button)
+                                   (Panel-info) (Light button)
+                                   (Panel-warning) (Orange button)
+                                   (Panel-danger) (Red button)
+                                   (Panel-link) 
+                                   (Panel-success) (Green button)
+                                   (Panel-primary) (Blue button)
+
+You can change the text colour inside the panel by using all the same name's above!
+
+ADD THIS ON HERE:
+
+<div class="panel-body text-******">  * = chose those above! 
